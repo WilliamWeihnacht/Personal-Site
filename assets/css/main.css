@@ -8605,3 +8605,9 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+/* my own css classes */
+
+.live-site-button {
+	margin-right: 5px;
+}
